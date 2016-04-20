@@ -1,0 +1,7 @@
+[package]
+name = "srst-gen"
+version = "0.1.0"
+authors = ["Allrex <allrex@aries.uberspace.de>"]
+
+[dependencies]
+rand = "0.3"
